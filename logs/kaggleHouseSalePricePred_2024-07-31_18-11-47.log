@@ -1,0 +1,8 @@
+2024-07-31 18:12:13,630 - kaggleHouseSalePricePred - INFO - 折1，训练log rmse:0.094609, 验证log rmse:0.577477
+2024-07-31 18:12:39,307 - kaggleHouseSalePricePred - INFO - 折2，训练log rmse:0.069323, 验证log rmse:0.148621
+2024-07-31 18:13:04,864 - kaggleHouseSalePricePred - INFO - 折3，训练log rmse:0.076888, 验证log rmse:0.167512
+2024-07-31 18:13:31,572 - kaggleHouseSalePricePred - INFO - 折4，训练log rmse:0.077740, 验证log rmse:0.131193
+2024-07-31 18:13:57,553 - kaggleHouseSalePricePred - INFO - 折5，训练log rmse:0.072915, 验证log rmse:0.144785
+2024-07-31 18:14:23,356 - kaggleHouseSalePricePred - INFO - 折6，训练log rmse:0.072309, 验证log rmse:0.163727
+2024-07-31 18:14:23,357 - kaggleHouseSalePricePred - INFO - 6-折验证: 平均训练log rmse: 0.077297, 平均验证log rmse: 0.222219
+2024-07-31 18:14:52,627 - kaggleHouseSalePricePred - INFO - 训练log rmse: 0.080482
